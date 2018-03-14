@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\454737d406c75522a592b5160c39832202229b5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa9b32e420d92baa30fe444784968c45002b5434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\8b22e82c1e00523c12ab77356723cdda78c86baa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efcc78dea1d455795a45bb4ba4b321769a222edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_fa38fe96e5de6a65bb284878db42c73f5b4bf5bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\038d895835f320553af7c8eb1a99fb9cd070ae8e\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_11d5daf4e858924f0126f5220d0a45cf778337cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\ab3fc0de2984258467b2f843b8da8df172baf53b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_972f1c71f4c846bb2036f0660de398a42f06eb19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\7523f990d0bda4ff7dfae855f218b86fd0845286\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13dc302fae8edd5e2e53d487c32de473863a9f37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\a41a83b27ba113c9766036c6c2030c15c14cc053\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb36a685fab5c1722c0ae5ed30cfc24abc5297bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\72809deb53ae14fe338073a190b1a7d411dce799\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_575e5af1a44824d5768637c149d017f5bb9279f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\8bc5b86f6cf13576aeb2c25f52d7b0dbaade675b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5adc999971a2c3ca94e66f938e399b61c13b537d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b289fba19d58235b674bd03547dbe49494b178f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\8ca5e85062706c09a1a927e9239c8ff6d6236b59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81f246ef5620d8de9209aad816797ce91d8514f6">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ddf8894ae7b3ffa308b79d4d9b24f0c1d4007e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\1e4e8f1d73b332cc5b0648e0dee554fcd12ea3b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b46546f77f3204c7a8b5091792967593cad1af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\6e69c74ae274ca81823b33591d35a56c5b6e0a02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b276de81a021015021bcb3a6c4b2d571c76ef15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\0d61fa65a64517a7df3ddfc73c99467258513429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b59656594eb7afe7292a7008d847fdf6765242a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\7b7985f5077aa0cd669a66751946ca51633415ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28f509f0f70ebbc2183f4589b78d4c8da141e5b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\5609b77ba1f056b0ca4efbe235ceaebb43572043\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7be08a72114c8249f42caca396133fbde7f778e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\3ee951b4e7c08ae61d4584fe939c67077ea0100a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bb1dbb87a70f6bd87d19b7d88ae3803b2c35f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\fb6ace6138602e4004f3480e1dcebd716b6f6fbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6810c104a8bf0877e701d1732d5cba7ca3c24d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\24a7b51a6d326667ba1a687f961824366ac6b7ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b720c3ac32928066a32e6bca54ed80175939960b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\24ff70dc202daa5dcf33c3ca7409cc94780bb297\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94fdaf68dd3c9a131edb65b02d2bc8d3c1494c43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\209e01b87a72e07d11ec219a21159c9aac318acb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1ce8dd05b519f3d7f7afa503ee2dfcf22318d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\777752a043000e6333eb3457cb40482f5a24fbb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef9e54138f6fe1afc1f2f28ab0a8c3aa95778c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\d4567b5eddef15d26c7b53c0bd4ca233736f7541\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d1a614ef16babb3f88ed8c828ab8bf22d0735ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\4187d5178e05335d4b5c6854f216ae18d17a1c05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fefd357877f244643079dd3762614880b5bef1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\bbd045d2e6284e198568c3a8a549024ded605e9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce17b5acf6659364f63b82b01806cb1629e38460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\ef1f8bce5ec9cddc2ae561f912245de785c36547\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20133457f52d9ada3318b2e37d4c1392199b4452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.gradle\caches\modules-2\files-2.1\com.squareup.wire\wire-runtime\2.2.0\edcc5f389a5ffc0aa6fdcd73480e563affdbd24c\wire-runtime-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\wire-runtime-2.2.0_07dab9d4a90e3f24a5c5ef0d3285059dcb88ca2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\0bd7bb693ea538b883702de5086c0ea8febdd8da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22799bbd31bafeecf953f9b9800dedccaf0cef97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\56e494dae43cf74de009d9ddff326ad197642598\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01fe0f99b961a44c85e10c437ee740330233c4d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\447b9cc0004451e1419ace7bb273ff1e2c2b0d70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a061a4499ab7ba372d7268a7e1bb2ac18ee71db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_6370895bc3f76559e8187b215181ae6a975df3e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\e44b54640a5c3308ce5805534fa9184d6b5be473\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7372603ce987818b8cadcf114450b17106963a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\d1236a4c7c89e4a0c3b70ca7d0d2a397e5d67ec2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_362b96cc9bf238d005f42724fc1e9321850b06df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\a8ff014233ebe79467c6f6a7fb8ad24c72ff2d20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7f4fe1cf3e0c53cb13f03c0b436194830993cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\c834000783c4d42dc87a0d7720f3a264e775d8ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cf22326355608808abdf7a2fdf76b47f434cd70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\70ca6be7629aa68cf6545f0cfc6fa815a55c680a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed715c8ae9c122c591b6b816d15529e8f82b7390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\8776d5a1bb66b49d32cd4547d9eb9a1029ac49fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6caf5ad861b13e627b37369498158266b66bcae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\3a0634e4baecd2abca6a5043094a9f9acbe88084\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40ab14d0cac677b2e2b45c3cc70f98263f6fc351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\315812a2097bd135c94565412e8d7a0f611ee93e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2529286faded6dee17a7cd965008c145659560e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\4807a5370d5ccbad2f1b5e8529e53b330e6e0288\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2c15776b7e7995310e809d3404a44162a0ae3a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\6afa9d8d5d2c63eadf96b89fd9dbaf448e443312\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3ada8bbc9886165ffd875bb10bd6c36073e7a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\ba122a3843f66a1ff54db1f3762203ebf4e3372d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd71ead0700afa1c83cda5cedd6d80f0260740d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.57\5c96e34bc9bd4cd6870e6d193a99438f1e274ca7\bcpkix-jdk15on-1.57.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcpkix-jdk15on-1.57_3f05fd78e29adc67d5ad15071badf1c08fc6a657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\b72324413cf12cdb30ce94f5e9115aa2627c818d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47460a7ad724d5c38c32744930e55a0ef60b4048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\142bcf485ee558d34b4349be6721771bc9424307\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59e0541a5b1340df9ac30f59bb1326ec2e031760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_68acfc9b28e67ea7fbee33928a949736fe80e589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\a9b71e6b541961846b9f13a1c6b2276a74852162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7c8f190baf1afcf93137f7003960946e9743c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\812ec249fd02b8194fc7ef4095101600d4983068\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_604daf9b8ab4ebc03ee4c9fabf6856eb863e2efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\038d895835f320553af7c8eb1a99fb9cd070ae8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16671f3e214afef03629931421b8b60343107703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\6afa9d8d5d2c63eadf96b89fd9dbaf448e443312\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f3b85a5ba133c3ab6e9f802afa9db75e4bf2645d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\b5321c44009397179c8b5fc3ef0b3fd0c20280e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14e25d8abd8b5c5ed241b4456db2e0a33f904430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\c801e2eaf07b23723a501877e902c53434f1364f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acf56c2136e60ff44894cf80dcd1e9f9749c2345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\410264e143e3e403bb09af8c4a18efc4758aebfd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38070e27141d0ed345403d29cb6831f8f8af11bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\acd3af676cc10843cedeb90152d97169204df75e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81ffda0ada07aa0cde6f0523530ba239a76df935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\92d938831667ea598af99eb53e20e1e2b7c66301\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94380dc3fe48d13539bb85a5e299fa25fe432010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\153e3e42ef5b4be56b7e16ac54ef6470e2069e72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b37119fe172c2321713dc771f31c508691eb17af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6b370cac8e02f903d0bf5426c05f8b2fbcb2611">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1c5e5855e626089bb00a15b4dbb7de56d1088f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\e515d54ea7fae3119a1b243682cdf5da9688b6fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f37465dbcd8281c3dd4ad52789e3eafd3ae04d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\c71956b8b1c8521ed8072b55a1facf858f5ccb44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6faa38b1517c27ca64ae7ad6fdc642dc688caeba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\343b4cea3f9e796be115b3333dc920ae457c63b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73ba761a17121dcf17e1663e725fc76dac0988ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\a7196cedd24842497ac058e75aa1c9fafed5e9ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50b9c1d79be516db0231b047fb41000fc454c298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\c00611ea65f216a10acb33e28cc262ffb45be402\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_feb534e0106b1823f0c8b24b19801cf284d0f841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\f3cf9d96f93d59e7cec8493772d2ba5ca9b80d26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85025c7fd7d3cbdd1aea2bc8ab28e208a29f8784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\2710e7ed9652177da06d3d7d25b47fe229f77bbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f3d35ef9f424ba738d80d371f9a90282664324f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.57\f66a135611d42c992e5745788c3f94eb06464537\bcprov-jdk15on-1.57.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f66a135611d42c992e5745788c3f94eb06464537">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcprov-jdk15on-1.57_afe34d83b9a14de84933562714c248a0df024c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\e5e18a5f22eceaabb28a724a634da74858983bf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83706c5d61886c58d33f45b7988033d3cefeaeee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Samvrutha\.android\build-cache\3ac4f4f7265a850801a75a3c337e85c13f0c90aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="C:\Users\Samvrutha\Documents\Senior Design\Android-GSDemo-GoogleMap\GSDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_657a473d983b16b91844c48f66761290f68dc864\classes.dex" />
+    </item>
+
+</items>

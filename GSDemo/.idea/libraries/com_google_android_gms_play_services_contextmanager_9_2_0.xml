@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-contextmanager-9.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b72324413cf12cdb30ce94f5e9115aa2627c818d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b72324413cf12cdb30ce94f5e9115aa2627c818d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
