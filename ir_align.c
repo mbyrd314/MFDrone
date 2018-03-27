@@ -40,6 +40,7 @@ void print_state(int *ir_status, int size){
     printf("\n");
 }
 
+/*
 int main() {
     // Initialize sensors
     int a_size = 4;
@@ -66,4 +67,4 @@ int main() {
        i++;
     }
  return 0;
-}
+}*/
