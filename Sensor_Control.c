@@ -1,14 +1,19 @@
-#include "Parallel_park.h"
+#include "Sensor_Control.h"
+#include "ir_align.c"
 
 
-pthread_mutex_t mutex_activate;
+pthread_mutex_t mutex_distance;
+pthread_mutex_t mutex_orientation;
 
 pthread_cond_t condvar;
+pthread_cond_t condvar_orientation;
 
 
 //Global shared variables, mutex protected
-int activate = 0;                  //Indicates if it is safe to move forward
-int temp_dist = MIN_DISTANCE;  //Minimum distance allowed before car should stop moving in reverse
+int distance = 0;                  //Indicates if the drone is within range for activation to be initialized
+int orientation = 0;              // Indicates if drone is in the correct rotational orientation
+int temp_dist = MAX_DISTANCE;  //Maximum distance before actuation will be triggered
+int temp_min_dist = MIN_DISTANCE //Minimum distance needed to be maintained between payload and refueling drone
 
 //Runs distance protocols for ultrasonic sensors based on sensor location.
 void *dist_detect(void *zgpio){
@@ -31,17 +36,17 @@ void *dist_detect(void *zgpio){
         printf("dist: %f\n sensor: %d\n", dist, p_gpio->checker);
 
         //writes to shared variable if distance is unsafe in front of car
-        if(dist < MIN_DISTANCE){
-            pthread_mutex_lock(&mutex_activate);
-            activate = 1;
+        if(dist < MAX_DISTANCE){
+            pthread_mutex_lock(&mutex_distance);
+            distance = 1;
             pthread_cond_broadcast(&condvar);
-            pthread_mutex_unlock(&mutex_activate);
+            pthread_mutex_unlock(&mutex_distance);
         }
         else{
-            pthread_mutex_lock(&mutex_activate);
-            activate = 0;
+            pthread_mutex_lock(&mutex_distance);
+            distance = 0;
             pthread_cond_broadcast(&condvar);
-            pthread_mutex_unlock(&mutex_activate);
+            pthread_mutex_unlock(&mutex_distance);
         }
         prev_state = dist;
     }
@@ -63,13 +68,64 @@ void *User(void *p_socket){
 //Runs IR detection protocol and adjusts drone as necessary
 void *ir_detect(){
 
+    int a_size = 4;
+    int pinout[] = {2,3,4,17};
+    int ir_status[a_size];
+    long i;
+    int allstate;
+
+   // initialize IR sensors
+    initialize_ir(pinout, a_size); 
+   
+   // Determine if IR sensors are aligned or not
+    while(True) {
+        allstate = read_ir(pinout,a_size,ir_status);
+
+       //  printf("%d\n", allstate);
+ 
+        if (allstate == a_size){
+            printf("YOU GOT A MATCH! CONGRATS!!!!\n");
+            printf("Begin actuation");
+            pthread_mutex_lock(&mutex_orientation);
+            orientation = 1;
+            pthread_cond_broadcast(&condvar_orientation);
+            pthread_mutex_unlock(&mutex_orientation);    
+        }
+        else if(i%100 == 0){
+             print_state(ir_status, a_size);
+             printf("Rotate clockwise")
+        }
+       i++;
+   }
+   return 0
+       
 }
 
+void *actuation_protocol(){
+    pthread_mutex_lock(&mutex_orientation)
+    while(!orientation){
+        pthread_cond_wait(&condvar_orientation, &mutex_orientation);
+     }
+
+    pthread_mutex_lock(&mutex_distance);
+    while(!distance){
+        pthread_cond_wait(&condvar, &mutex_distance);
+     }
+     
+     printf("ACTUATION WILL BEGIN NOW")
+     //TODO: Add protocol here to send this as a message to a different raspberry pi wirelessly 
+     return 0;
+     
+        
+}
 
 //Recieves directions from vision detection protocol on which direction the drone should move
 //based on alignment
 void *vision(){
-
+// TODO: Recieves information from a ZMQ socket in the form of a string that tells which direction the drone should move
+// This program will be the subscriber
+// Vision python program will be the publisher
+// Directions include left, right, forward, backward, up, down.
 }
 
 int main(){
@@ -87,13 +143,13 @@ int main(){
     //Pin initialization of ultrasonic sensors
     IO_forward.trigger = 66;
     IO_forward.echo = 67;
-    IO_forward.checker = 1;
+    IO_forward.checker = 1;  
 
     //initialize socket
     init_socket(&zsocket);
 
     //create threads
-    pthread_t f1, ir, vision;
+    pthread_t f1, ir, vision, actuation;
     pthread_attr_t a_attr;
     struct sched_param schedule_paramA;
     pthread_attr_init(&a_attr);
@@ -107,8 +163,8 @@ int main(){
 	// This solves a known problem with locking and unlocking a fast, nonrecursive mutex too often
 	pthread_mutexattr_settype(&attr, PTHREAD_MUTEX_RECURSIVE_NP);
     pthread_mutex_init(&mutex_activate, &attr);
-    /*pthread_mutex_init(&mutex_peds, &attr);
-    pthread_mutex_init(&mutex_peds_back, &attr);
+    pthread_mutex_init(&mutex_orientation, &attr);
+    /*pthread_mutex_init(&mutex_peds_back, &attr);
     pthread_mutex_init(&mutex_open_found, &attr);
     pthread_mutex_init(&mutex_distance, &attr);*/
     pthread_mutexattr_destroy(&attr);
@@ -117,15 +173,19 @@ int main(){
     pthread_condattr_t condattr1;
 	pthread_condattr_init(&condattr1);
 	pthread_cond_init(&condvar, &condattr1);
-    /*pthread_cond_init(&condvar_peds_back, &condattr1);
-    pthread_cond_init(&condvar_spot, &condattr1);
+    pthread_cond_init(&condvar_orientation &condattr1);
+    /*pthread_cond_init(&condvar_spot, &condattr1);
 	pthread_cond_init(&condvar_open_found, &condattr1);
 
 */
 
     //Phase I: User controlled car with safety halt features
     pthread_create(&f1, &a_attr, dist_detect, (void *) &IO_forward);
-    pthread_join(f1, NULL);
+    pthread_create(&ir, &a_attr, ir_align,  NULL);
+    pthread_create(&actuation, &a_attr,actuation_protocol, NULL);
+    pthread_join(actuation, NULL);
+    pthread_cancel(ir);
+    pthread_cancel(f1);
 
     stop(&zsocket);
     return 0;
